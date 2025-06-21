@@ -9,7 +9,7 @@ After that I can basically work manually to remove the duplicates.
 
 # Technical Features:-
 
-- Parses '.docx' files for acronym-expansion pairs  
+- Parses `.docx` files for acronym-expansion pairs  
 - Detects duplicate acronyms  
 - Lists:  
   - Number of times each acronym appears  
@@ -20,12 +20,13 @@ After that I can basically work manually to remove the duplicates.
 # Packages and requirements:-
 
 - Python (obviously)  
-- 'python-docx'  
+- `python-docx`  
 - Have a single `.docx` from which you have to find the duplicates in the same directory as the script.  
-  Name it 'acryonyms.docx' or change the file path in the '.py' file.  
+  Name it `acryonyms.docx` or change the file path in the `.py` file.  
 
 
 # Commands:-
 
-- pip install python-docx
-- python file_name.py
+```bash
+pip install python-docx
+python file_name.py
