@@ -21,11 +21,11 @@ After that I can basically work manually to remove the duplicates.
 
 - Python (obviously)  
 - 'python-docx'  
-- Have a single '.docx' from which you have to find the duplicates in the same directory as the script.  
+- Have a single `.docx` from which you have to find the duplicates in the same directory as the script.  
   Name it 'acryonyms.docx' or change the file path in the '.py' file.  
 
 
 # Commands:-
 
-pip install python-docx
-python file_name.py
+- pip install python-docx
+- python file_name.py
