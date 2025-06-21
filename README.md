@@ -21,7 +21,7 @@ Packages and requirements:-
 
 Python (onbviously)
 python-docx
-Have a single word file from which you have to find the duplicates. Name it "acryonyms.docs" or change the file path in the py file.
+Have a single .docx from which you have to find the duplicates in the same directory as the script. Name it "acryonyms.docs" or change the file path in the py file.
 
 
 Commands:-
