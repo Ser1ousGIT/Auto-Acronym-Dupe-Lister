@@ -6,7 +6,6 @@ It also made duplicates.
 So, here is a Duplicate finder and lister which shows exactly how many instances of an acronym is present and what are the full forms.  
 After that I can basically work manually to remove the duplicates.  
 
----
 
 # Technical Features:-
 
@@ -17,7 +16,6 @@ After that I can basically work manually to remove the duplicates.
   - All unique expansions (if applicable)  
 - Outputs results in a clean table format  
 
----
 
 # Packages and requirements:-
 
